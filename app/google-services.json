@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "896307460063",
+    "firebase_url": "https://registro-valencha.firebaseio.com",
+    "project_id": "registro-valencha",
+    "storage_bucket": "registro-valencha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896307460063:android:68ee0916b0baf91a",
+        "android_client_info": {
+          "package_name": "valencha.com.registronuevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896307460063-do9840t4p9k5snr47p1hlqatmg42c597.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "valencha.com.registronuevo",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "896307460063-br0ugrltug387l1p6le1gri7kchqkgsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqwmA3OfjjDpWp_p4ZZRv98LHMaHdHi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896307460063-br0ugrltug387l1p6le1gri7kchqkgsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
